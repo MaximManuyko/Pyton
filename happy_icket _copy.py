@@ -31,7 +31,7 @@ def is_happy_ticket(number):
         t = True
     else:
         t = False
-
+    return t
 
 
 
