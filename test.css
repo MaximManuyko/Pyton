@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+  
+    /* BEGIN (write your solution here) */
+    font-size: 18px;
+    color: #333;
+    
+    /* END */
+    font-family: sans-serif;
+    line-height: 1.5;
+  }
+  
+  /* BEGIN (write your solution here) */
+    
+  margin-top: 50px;
+  margin-botton: 10px;
+  font-size: 60px;
+  
+  Внешний отступ снизу: 10 пикселей
+  Размер текста: 60 пикселей
+  Выравнивание текста: по центру
+  
+  /* END */
+  
+  h2 {
+    /* BEGIN (write your solution here) */
+  
+    
+    /* END */
+  
+    border-bottom: 2px solid #e3e3e3;
+  }
+  
+  main {
+    width: 900px;
+    margin: auto;
+  }
+  
+  /* BEGIN (write your solution here) */
+  
+  
+  /* END */
+  
